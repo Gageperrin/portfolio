@@ -30,7 +30,7 @@ Portfolios are not static entities. They evolve and expand. They mellow and deve
 
 This section provides a brief schedule of the sequence in which I plan on adding projects to my portfolio. I hope that the file directory structure is intuitive enough that visitors can find what they are interested in. 
 
-###Planned Sequence###
+### Planned Sequence ###
 * AWS Well-Architected Labs (at least 1 a day)
 * AWS - CloudFormation - WordPress in 4 stages
 * AWS - CloudFormation - HA VPN
