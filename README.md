@@ -4,7 +4,7 @@
 
 The English word "portfolio" is borrowed not from French, Latin, or some Germanic tongue as so many of our words are, but rather from the Italian *portafòglio* which literally translates as portable papers, the carrying around of loose sheets. 
 
-Of course you may remember from high school that the kid who carried assignments and homework loose leaf in their backpack was likely to spend a long time shuffling through their stack to find what they need. You may, like me, have been that student yourself at one point. It's not a quite efficient process in the long run
+Of course you may remember from high school that the kid who carried assignments and homework loose leaf in their backpack was likely to spend a long time shuffling through their stack to find what they need. You may, like me, have been that student yourself at one point. It is not quite an efficient process in the long run.
 
 The Italians of the 18th century realized this too and so in time the portfolio no longer referred to a collection of loose papers but rather the leather case that carried them. As the Treccani Institute defines it, a *portafòglio* is a 
 
