@@ -1,0 +1,89 @@
+[AWS Well-Architected Labs](https://wellarchitectedlabs.com/) provide hands-on experience with a wide variety of AWS technologies on a number of different levels.
+
+As part of my portfolio, I am writing out the steps for each lab and providing any commentary or analysis of what is produced. For some labs, I will build CloudFormation templates for viewers to use to test out my solutions to various projects on this website.
+
+- [ ]  Operational Excellence
+    - [ ]  100 - Inventory and Patch Management
+    - [ ]  100 - Dependency Monitoring
+- [ ]  Security
+    - [ ]  100 - Launch Instance
+    - [ ]  100 - Create AWS WAF Rules
+    - [ ]  100 - Create ALB with WAF Integration
+    - [ ]  100 - Teardown
+    - [ ]  200 - Automated Deployment of Detective Controls
+    - [ ]  200 - Automated Deployment of EC2 Web Application
+    - [ ]  200 - Automated Deployment of IAM Groups and Roles
+    - [ ]  200 - Automated Deployment of VPC
+    - [ ]  200 - Automated Deployment of WAF
+    - [ ]  200 - Automated IAM User Cleanup
+    - [ ]  200 - Basic EC2 WAF Protection
+    - [ ]  200 - ACM Request Public Certificate
+    - [ ]  200 - CloudFront for Web Application
+    - [ ]  200 - CloudFront with WAF Protection
+    - [ ]  200 - Remote Configuration, Installation, and Viewing of CloudWatch Logs
+    - [ ]  300 - Autonomous Monitoring of Cryptographic Activity with KMS
+    - [ ]  300 - Autonomous Patching with EC2 Image Builder and Systems Manager
+    - [ ]  300 - IAM Permission Boundaries Delegating Role Creation
+    - [ ]  300 - IAM Tag Based Access Control for EC2
+    - [ ]  300 - Incident Response Playbook with Jupyter - AWS IAM
+    - [ ]  300 - Incident Repsonse with AWS Console and CLI
+    - [ ]  300 - Lambda Cross Account Using Bucket Policy
+    - [ ]  300 - Lambda Cross Account IAM Role Assumption
+    - [ ]  Q - Loft: Introduction to Security
+    - [ ]  Q - Quick Steps to Security Success
+    - [ ]  Q - AWS Incident Response Day
+    - [ ]  Q - re:Invent2020 - Automate the Well-Architected Way with WeInvest
+    - [ ]  Q - AWS Security Best Practices Workshop
+    - [ ]  Q - AWS Security Best Practices Day
+    - [ ]  Q - Managing Credentials and Authentication
+    - [ ]  Q - Control Human Access
+    - [ ]  Q - Control Programmatic Access
+    - [ ]  Q - Detect and Investigate Events
+    - [ ]  Q - Defend against New Threats
+    - [ ]  Q - Protect Networks
+    - [ ]  Q - Protect Compute
+    - [ ]  Q - Classify Data
+    - [ ]  Q - Protect Data at Rest
+    - [ ]  Q - Protect Data in Transit
+    - [ ]  Q - Incident Repsonse
+- [ ]  Reliability
+    - [x]  100 - Deploy a Multi-Tier Infrastructure Using CloudFormation
+    - [ ]  200 - Implementing Bi-Directional Cross-Region Replication (CRR) for Amazon Simple Storage Service (Amazon S3)
+    - [ ]  200 - Deploy and Update CloudFormation
+    - [ ]  200 - Testing Backup and Restore of Data
+    - [ ]  200 - Testing for Resiliency of EC2 Instances
+    - [ ]  300 - Implementing Health Checks and Managing Depedencies to Improve Reliability
+    - [ ]  300 - Testing for Resiliency of EC2, RDS, and AZ
+    - [ ]  300 - Fault Isolation with Shuffle Sharding
+- [ ]  Performance Efficiency
+    - [ ]  100 - Monitoring with CloudWatch Dashboards
+    - [ ]  100 - Calculating Differences in Clock Source
+    - [ ]  100 - Monitoring EC2 Instances with CloudWatch Dashbaords
+    - [ ]  100 - Monitoring an Amazon Linux EC2 Instance with CloudWatch Dashboard
+- [ ]  Cost Optimization
+    - [ ]  100 - AWS Account Setup
+    - [ ]  100 - Cost and Usage Governance
+    - [ ]  100 - Pricing Models
+    - [ ]  100 - Cost and Usage Analysis
+    - [ ]  100 - Cost Visualization
+    - [ ]  100 - EC2 RIghtsizing
+    - [ ]  100 - Goals and Targets
+    - [ ]  200 - Cost and Usage Governance
+    - [ ]  200 - Pricing Models
+    - [ ]  200 - Cost and Usage Analysis
+    - [ ]  200 - Cost Visualization
+    - [ ]  200 - EC2 Rightsizing
+    - [ ]  200 - Pricing Model Analysis
+    - [ ]  200 - Enterprise Dashbaords
+    - [ ]  200 - Workload Efficiency
+    - [ ]  200 - Licensing
+    - [ ]  200 - Cost Journey
+    - [ ]  300 - Automated Athena CUR Query and Email Delivery
+    - [ ]  300 - Automated CUR Updates and Ingestion
+    - [ ]  300 - CUR Queries
+    - [ ]  300 - Splitting the CUR and Sharing Access
+    - [ ]  300 - Organization Data CUR Connection
+- [ ]  Well-Architected Tool
+    - [ ]  100 - Walkthrough of the Well-Architected Tool
+    - [ ]  100 - Contributing to Well-Architected Labs
+    - [ ]  200 - Using AWSCLI to Manage WA Reviews
