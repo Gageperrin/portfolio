@@ -1,5 +1,9 @@
 # Portfolio
 
+## UNDER CONSTRUCTION
+
+I am currently revamping my portfolio and personal website, so most of my work is not available for viewing. I plan to have both re-launched by April, time permitting.
+
 ## What Is a Portfolio?
 
 The English word "portfolio" is borrowed not from French, Latin, or some Germanic tongue as so many of our words are, but rather from the Italian *portafòglio* which literally translates as portable papers, the carrying around of loose sheets. 
