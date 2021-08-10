@@ -2,7 +2,7 @@
 
 ## UNDER CONSTRUCTION
 
-I am currently revamping my portfolio and personal website, so most of my work is not available for viewing. I plan to have both re-launched by April, time permitting.
+I am currently revamping my portfolio and personal website, so most of my work is not available for viewing at the present moment. There will be projects presented here at another time.
 
 ## What Is a Portfolio?
 
